@@ -1,0 +1,73 @@
+{
+  "version": 2,
+  "dgSpecHash": "sT9z6yCsiMY=",
+  "success": true,
+  "projectFilePath": "D:\\DOTNET\\dotnet_angular\\backend\\backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MONY\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.10\\microsoft.aspnetcore.authentication.jwtbearer.10.0.10.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\microsoft.bcl.cryptography\\10.0.2\\microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.19.2\\microsoft.identitymodel.abstractions.8.19.2.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.19.2\\microsoft.identitymodel.jsonwebtokens.8.19.2.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\microsoft.identitymodel.logging\\8.19.2\\microsoft.identitymodel.logging.8.19.2.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.19.2\\microsoft.identitymodel.protocols.8.19.2.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.19.2\\microsoft.identitymodel.protocols.openidconnect.8.19.2.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.19.2\\microsoft.identitymodel.tokens.8.19.2.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\oracle.manageddataaccess.core\\3.21.1\\oracle.manageddataaccess.core.3.21.1.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\swashbuckle.aspnetcore\\6.8.0\\swashbuckle.aspnetcore.6.8.0.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.8.0\\swashbuckle.aspnetcore.swagger.6.8.0.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.8.0\\swashbuckle.aspnetcore.swaggergen.6.8.0.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.8.0\\swashbuckle.aspnetcore.swaggerui.6.8.0.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\system.diagnostics.performancecounter\\4.7.0\\system.diagnostics.performancecounter.4.7.0.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\system.directoryservices\\4.7.0\\system.directoryservices.4.7.0.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\system.directoryservices.protocols\\4.7.0\\system.directoryservices.protocols.4.7.0.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.19.2\\system.identitymodel.tokens.jwt.8.19.2.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.7.0\\system.io.filesystem.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\MONY\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Oracle.ManagedDataAccess.Core' 3.21.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5pm2-9mr2-3frq",
+      "projectPath": "D:\\DOTNET\\dotnet_angular\\backend\\backend.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\DOTNET\\dotnet_angular\\backend\\backend.csproj",
+      "libraryId": "Oracle.ManagedDataAccess.Core",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'System.DirectoryServices.Protocols' 4.7.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-9cxh-gqpx-qc5m",
+      "projectPath": "D:\\DOTNET\\dotnet_angular\\backend\\backend.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\DOTNET\\dotnet_angular\\backend\\backend.csproj",
+      "libraryId": "System.DirectoryServices.Protocols",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "message": "Package 'System.Drawing.Common' 4.7.0 has a known critical severity vulnerability, https://github.com/advisories/GHSA-rxg9-xrhp-64gj",
+      "projectPath": "D:\\DOTNET\\dotnet_angular\\backend\\backend.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\DOTNET\\dotnet_angular\\backend\\backend.csproj",
+      "libraryId": "System.Drawing.Common",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
