@@ -1,0 +1,2 @@
+namespace backend.Models.Data;
+public sealed class AppUnit { public int Id{get;set;} public required string Name{get;set;} public required string Symbol{get;set;} public decimal Measure{get;set;} public required string Group{get;set;} public string? Description{get;set;} public bool IsActive{get;set;}=true; public DateTimeOffset CreatedAtUtc{get;set;}=DateTimeOffset.UtcNow; public int CreatedBy{get;set;} public DateTimeOffset? UpdatedAtUtc{get;set;} public int? UpdatedBy{get;set;} }
